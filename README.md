@@ -16,3 +16,31 @@
 [![](https://komarev.com/ghpvc/?username=tarungargg2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
+<!---LeetCode Topics End-->
