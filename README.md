@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
