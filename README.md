@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
