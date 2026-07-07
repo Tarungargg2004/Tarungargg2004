@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0189-rotate-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
