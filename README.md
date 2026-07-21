@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
