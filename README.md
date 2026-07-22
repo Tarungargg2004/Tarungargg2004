@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0033-search-in-rotated-sorted-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,4 +94,5 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
