@@ -29,6 +29,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0189-rotate-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
@@ -95,4 +97,8 @@
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
