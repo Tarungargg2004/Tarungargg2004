@@ -65,6 +65,7 @@
 | [0009-palindrome-number](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0189-rotate-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
