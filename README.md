@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -96,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
@@ -105,5 +107,14 @@
 ## Sorting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3536-maximum-product-of-two-digits) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
