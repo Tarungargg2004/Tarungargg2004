@@ -26,6 +26,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0283-move-zeroes) |
+| [1386-cinema-seat-allocation](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -105,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
@@ -114,6 +117,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
