@@ -69,6 +69,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0189-rotate-array) |
+| [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -101,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -127,4 +130,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
