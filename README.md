@@ -72,6 +72,7 @@
 | [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
@@ -122,6 +123,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting
 |  |
 | ------- |
