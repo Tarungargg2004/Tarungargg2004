@@ -72,6 +72,7 @@
 | [0189-rotate-array](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
+| [3360-stone-removal-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/1927-sum-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Tarungargg2004/Tarungargg2004/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
